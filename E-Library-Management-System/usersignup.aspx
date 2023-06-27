@@ -45,12 +45,68 @@
                             <label>Date of Birth</label>
                             <div class="form-group">
                                 <asp:TextBox CssClass="form-control" ID=TextBox3 runat="server" placeholder="Date of Birth" TextMode="Date"></asp:TextBox>
-
+                                    
                             </div>
 
                         </div>
 
                     </div>
+
+                        <div class="row">
+                        <div class="col-md-6">
+                            <label>Contact No</label>
+                            <div class="form-group">
+                                <asp:TextBox CssClass="form-control" ID=TextBox4 runat="server" placeholder="Contact No" TextMode="Number"></asp:TextBox>
+
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            
+                            <label>Email ID</label>
+                            <div class="form-group">
+                                <asp:TextBox CssClass="form-control" ID=TextBox5 runat="server" placeholder="Email ID" TextMode="Email"></asp:TextBox>
+                                    
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                     <div class="row">
+                        <div class="col-md-4">
+                            <label>Contact No</label>
+                            <div class="form-group">
+                                <asp:TextBox CssClass="form-control" ID=TextBox6 runat="server" placeholder="Contact No" TextMode="Number"></asp:TextBox>
+
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-4">
+                            
+                            <label>State</label>
+                            <div class="form-group">
+                              
+                           
+                            </div>
+
+                        </div>
+
+                          <div class="col-md-4">
+                            
+                            <label>Email ID</label>
+                            <div class="form-group">
+                                <asp:TextBox CssClass="form-control" ID=TextBox8 runat="server" placeholder="Email ID" TextMode="Email"></asp:TextBox>
+                                    
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+
 
 
                     <div class="row">

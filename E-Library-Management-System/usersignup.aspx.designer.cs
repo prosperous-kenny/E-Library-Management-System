@@ -60,15 +60,6 @@ namespace E_Library_Management_System
         protected global::System.Web.UI.WebControls.TextBox TextBox6;
 
         /// <summary>
-        /// DropDownList1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
-
-        /// <summary>
         /// TextBox8 control.
         /// </summary>
         /// <remarks>
