@@ -235,8 +235,19 @@
                         </div>
                     </div>
                     
-                    
+                    <div class="row">
+                        <div class="col">
+                            <hr>
+                            </div>
+                        </div>
                         
+                        <div class="row">
+                        <div class="col">
+                            <asp:GridView class="table table-stripped table-bordered" ID="GridView1" runat="server"></asp:GridView>
+                            </div>
+                        </div>
+                        
+
                     </div>
 
 
